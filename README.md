@@ -1,9 +1,21 @@
 # React Integrate Electron (Skeleton)
 
-> Integrate React in Electron
+> Integrating Electron applications with
 
-In the project directory, you can run:
-### `npm start`
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installing
 
-### `npm run build`
+```sh
+npm install
+```
+
+## Running
+
+```sh
+# terminal 1: run local web server
+npm run serve
+
+# terminal 2: run electron app
+npm start
+```
+
+###### Good development)
