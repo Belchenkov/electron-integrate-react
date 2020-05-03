@@ -1,6 +1,6 @@
 # React Integrate Electron (Skeleton)
 
-> Integrating Electron applications with
+> Integrating Electron applications with React.js + Blueprint.js
 
 ## Installing
 
